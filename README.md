@@ -1,16 +1,31 @@
-# otp_generator
+# OTP Generator APP
 
-A new Flutter project.
+Simple ***OTP Generator APP*** Created with **Flutter Freamwork** And **Dart Language**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- Generate OTP
+- Live Generate OTP
+- Simple Use
+ 
+--- 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="images/319c32f3-b7e1-4066-80f6-76326a21d06e.jpg" width="170">
+<img src="images/f35490a8-50ff-4a9b-a43a-02f1b20df528.jpg" width="170">
+<img src="images/fb622c37-aeb9-4c44-9cb1-f26b85559b4b.jpg" width="170">
+
+
+## Running Tests
+To run tests, run the following Key
+
+```bash
+  Press F5 Key
+```
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at ishankakadiya7@gmail.com
