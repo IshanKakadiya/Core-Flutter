@@ -18,10 +18,10 @@ Simple ***KBC app*** Created with **Flutter Freamwork** And **Dart Language**
 ## Screenshots 
 
 
-<img src="accets/76be5c14-7ee9-4aec-bbf0-b9516c1c898c.jpg" width="110">
-<img src="accets/88b06ce1-617e-4236-a44d-009409c40d6a.jpg" width="110">
-<img src="accets/3f2c8731-48ae-4ab8-9293-e145f56009f4.jpg" width="110">
-<img src="accets/b44cb82a-b556-4a4b-b4f8-d32bbd80c406.jpg" width="110">
+<img src="https://user-images.githubusercontent.com/113764228/206408035-3c0b0a4c-23cb-43ad-aa72-0049fa3aa8d4.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/113764228/206408039-6b4e1df0-c6db-433a-833e-409ed3462a4f.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/113764228/206408026-d2ab0638-3d6e-495f-8c25-6f34d430d348.jpg" width="400">
+<img src="https://user-images.githubusercontent.com/113764228/206408031-c9ce9c87-cf81-457b-a6b3-c887d2630a58.jpg" width="400">
 
 ## Running Tests
 To run tests, run the following Key
